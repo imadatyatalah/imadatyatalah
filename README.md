@@ -1,4 +1,4 @@
-### Hi there, I'm Imad 👋
+# Hi there, I'm [Imad Atyat-Alah](https://imadatyatalah.vercel.app/) 👋🏼
 
 <!--
 **imadatyatalah/imadatyatalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub Profile Stats
+
+<p align="center">
+<a href="https://github.com/imadatyatalah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imadatyatalah&show_icons=true&theme=react&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imadatyatalah&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
