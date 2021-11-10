@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/imadatyatalah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imadatyatalah&show_icons=true&theme=react&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imadatyatalah&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imadatyatalah&show_icons=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imadatyatalah&layout=compact&langs_count=6&theme=react"/>
 </a>
 </p>
