@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## GitHub Profile Stats
+## GitHub profile stats
 
 <p align="center">
 <a href="https://github.com/imadatyatalah">
@@ -23,3 +23,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imadatyatalah&layout=compact&langs_count=6&theme=react"/>
 </a>
 </p>
+
+## Connect with me
+<a href="https://twitter.com/ImadAtyat"><img src="https://img.shields.io/badge/-ImadAtyat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
