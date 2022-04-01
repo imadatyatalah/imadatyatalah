@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://imadatyatalah.vercel.app/">Imad Atyat-Alah</a> 👋🏼</h1>
+<h1 align="center">Hi there, I'm <a href="https://imadatyatalah.vercel.app/">Imad Atyat-Allah</a> 👋🏼</h1>
 
 <div align="center">
   <a href="https://imadatyatalah.vercel.app"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/></a>
